@@ -1,4 +1,4 @@
-## Homewrok3
+## Homework3
 This contains 3 stages of caculator in each branch.
 
 ### Main
