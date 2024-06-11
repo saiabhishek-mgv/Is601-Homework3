@@ -1,13 +1,12 @@
-###Homewrok3
-This contains 3 stages of caculator in each branch.
+## Homewrok3
 
-##Main
-Calculator with basic functionalities.
-
-Navigate to branches version2 and version3 to get improved versions of calulator.
+### Version3
+We have added static method on calculator class and instance method on calculation class.
+We have added parameterized testing in this phase.
 
 ##Installation
 1. Clone the repo
+3. Install and activate the virtual environment
 2. pip install -r requirements.txt
 
 ##Testing
