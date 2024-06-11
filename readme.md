@@ -1,4 +1,4 @@
-## Homewrok3
+## Homework3
 
 ### Version3
 We have added static method on calculator class and instance method on calculation class.
