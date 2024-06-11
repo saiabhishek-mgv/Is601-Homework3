@@ -1,7 +1,7 @@
 ## Homework 3 - Intermediate version
 
 ### Version2
-We have addedstatic and instance methods to the clsses for performing arithmetic operations
+We have added calculation class
 
 ### Installation
 1. Clone the repo
